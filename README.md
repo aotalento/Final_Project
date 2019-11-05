@@ -1,4 +1,5 @@
-# Final_Project
+# Predicting Missed work Days
+The Half Class Squad: Rick Clauss, Armi Cachilla, Alex Talento, Tyler Cobb, John Rafferty, Yazan Rizeq, Hadijat Makinde
 
 Aim of our project:
 To use machine learning to predict how often an employee will miss work.The algorithm is trained based on information gathered from the employee at the time of employment as well as other features.
